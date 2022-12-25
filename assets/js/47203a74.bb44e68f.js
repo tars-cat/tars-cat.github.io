@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_docs=self.webpackChunkai_docs||[]).push([[3009],{2197:a=>{a.exports=JSON.parse('{"label":"\u5317\u51a5\u4e4b\u5f71","permalink":"/blog/tags/\u5317\u51a5\u4e4b\u5f71","allTagsPath":"/blog/tags","count":1}')}}]);

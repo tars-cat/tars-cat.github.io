@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_docs=self.webpackChunkai_docs||[]).push([[4433],{6424:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/decision","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

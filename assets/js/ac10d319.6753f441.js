@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_docs=self.webpackChunkai_docs||[]).push([[2626],{5788:a=>{a.exports=JSON.parse('{"label":"WanXing","permalink":"/blog/tags/wan-xing","allTagsPath":"/blog/tags","count":1}')}}]);

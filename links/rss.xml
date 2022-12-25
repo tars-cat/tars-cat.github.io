@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>JLU-AI-Lab Blog</title>
+        <link>https://tars-cat.github.io/links</link>
+        <description>JLU-AI-Lab Blog</description>
+        <lastBuildDate>Thu, 08 Dec 2022 15:05:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[HITSZ Critical-HIT 2022]]></title>
+            <link>https://tars-cat.github.io/links/hitsz2022</link>
+            <guid>/hitsz2022</guid>
+            <pubDate>Thu, 08 Dec 2022 15:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HIT I-Hiter 2020]]></title>
+            <link>https://tars-cat.github.io/links/hit2020</link>
+            <guid>/hit2020</guid>
+            <pubDate>Thu, 08 Dec 2022 14:51:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tars_Go Sentry 2022]]></title>
+            <link>https://tars-cat.github.io/links/tarsgo-2022-sentry</link>
+            <guid>/tarsgo-2022-sentry</guid>
+            <pubDate>Thu, 08 Dec 2022 14:40:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tars_Go Decision 2022]]></title>
+            <link>https://tars-cat.github.io/links/tarsgo-2022-decision</link>
+            <guid>/tarsgo-2022-decision</guid>
+            <pubDate>Thu, 08 Dec 2022 14:35:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NWPU V5++ 2020]]></title>
+            <link>https://tars-cat.github.io/links/nwpu2020</link>
+            <guid>/nwpu2020</guid>
+            <pubDate>Thu, 08 Dec 2022 14:27:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RoboRTS]]></title>
+            <link>https://tars-cat.github.io/links/roborts</link>
+            <guid>/roborts</guid>
+            <pubDate>Thu, 08 Dec 2022 14:19:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JLU-AI-Lab]]></title>
+            <link>https://tars-cat.github.io/links/jlu-ai-lab</link>
+            <guid>/jlu-ai-lab</guid>
+            <pubDate>Thu, 08 Dec 2022 11:21:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

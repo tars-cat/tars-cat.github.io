@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tars-cat.github.io/links</id>
+    <title>JLU-AI-Lab Blog</title>
+    <updated>2022-12-08T15:05:13.189Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://tars-cat.github.io/links"/>
+    <subtitle>JLU-AI-Lab Blog</subtitle>
+    <icon>https://tars-cat.github.io/img/logo-go.png</icon>
+    <entry>
+        <title type="html"><![CDATA[HITSZ Critical-HIT 2022]]></title>
+        <id>/hitsz2022</id>
+        <link href="https://tars-cat.github.io/links/hitsz2022"/>
+        <updated>2022-12-08T15:05:13.189Z</updated>
+        <author>
+            <name>HIT Critical-HIT 2022</name>
+            <uri>https://github.com/Critical-HIT-hitsz/RMUA2022</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HIT I-Hiter 2020]]></title>
+        <id>/hit2020</id>
+        <link href="https://tars-cat.github.io/links/hit2020"/>
+        <updated>2022-12-08T14:51:37.744Z</updated>
+        <author>
+            <name>HIT I-Hiter 2020</name>
+            <uri>https://github.com/MengXiangBo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tars_Go Sentry 2022]]></title>
+        <id>/tarsgo-2022-sentry</id>
+        <link href="https://tars-cat.github.io/links/tarsgo-2022-sentry"/>
+        <updated>2022-12-08T14:40:47.826Z</updated>
+        <author>
+            <name>Tars_Go Sentry 2022</name>
+            <uri>https://github.com/waddiwasibiu/RMUA-TARS_GO-AI_Sentry</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tars_Go Decision 2022]]></title>
+        <id>/tarsgo-2022-decision</id>
+        <link href="https://tars-cat.github.io/links/tarsgo-2022-decision"/>
+        <updated>2022-12-08T14:35:45.108Z</updated>
+        <author>
+            <name>Tars_Go Decision 2022</name>
+            <uri>https://github.com/Hermione-M/TARS_GO-Decision</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NWPU V5++ 2020]]></title>
+        <id>/nwpu2020</id>
+        <link href="https://tars-cat.github.io/links/nwpu2020"/>
+        <updated>2022-12-08T14:27:29.978Z</updated>
+        <author>
+            <name>NWPU V5++ 2020</name>
+            <uri>https://github.com/nwpu-v5-team</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RoboRTS]]></title>
+        <id>/roborts</id>
+        <link href="https://tars-cat.github.io/links/roborts"/>
+        <updated>2022-12-08T14:19:12.795Z</updated>
+        <author>
+            <name>RoboRTS</name>
+            <uri>https://robomaster.github.io/RoboRTS-Tutorial/#/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JLU-AI-Lab]]></title>
+        <id>/jlu-ai-lab</id>
+        <link href="https://tars-cat.github.io/links/jlu-ai-lab"/>
+        <updated>2022-12-08T11:21:38.706Z</updated>
+        <author>
+            <name>JLU-AI-Lab</name>
+            <uri>https://jlu-ai.vercel.app</uri>
+        </author>
+    </entry>
+</feed>
