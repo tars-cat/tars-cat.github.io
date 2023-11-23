@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'JLU-AI-Lab',
+  title: 'TARS-Go-AI',
   tagline: '不要停止奔跑，值得期待的只有远方',
   url: 'https://tars-cat.github.io/',
   baseUrl: '/',
@@ -63,7 +63,7 @@ const config = {
         routeBasePath: 'links',
         path: './links',
         showReadingTime: false,
-        blogSidebarTitle: 'Friendly Links',
+        blogSidebarTitle: 'Links',
         blogSidebarCount: 'ALL',
       },
     ],
@@ -73,7 +73,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'JLU-AI-Lab',
+        title: 'TARS-Go-AI',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.png',
@@ -114,16 +114,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'CPP',
-                to: '/docs/cpp_foundation',
+                label: 'Linux',
+                to: '/docs/linux_01',
               },
               {
                 label: 'ROS',
                 to: '/docs/ros_foundation',
-              },
-              {
-                label: 'Ubuntu',
-                to: '/docs/ubuntu_00',
               },
             ],
           },
@@ -158,7 +154,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} JLU-AI-Lab. Built with Docusaurus.<br>Address: 吉林大学南湖校区吉甲车库进门直行右转`,
+        copyright: `Copyright © ${new Date().getFullYear()} TARS-Go-AI. Built with Docusaurus.<br>Address: 吉林大学吉甲大师创新创业实践基地`,
       },
       prism: {
         theme: lightCodeTheme,
