@@ -4,32 +4,56 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: '享受思考',
+    Svg: require('@site/static/img/think.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        真知灼见，首先来自多思善疑。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: '享受学习',
+    Svg: require('@site/static/img/study.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        敲你码：光看书有用吗？不敲能会吗？
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: '享受生活',
+    Svg: require('@site/static/img/life.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        劝君莫惜金缕衣，劝君须惜少年时。<br />花开堪折直须折，莫待无花空折枝。
+      </>
+    ),
+  },
+  {
+    title: '戴口罩',
+    Svg: require('@site/static/img/mask.svg').default,
+    description: (
+      <>
+        勤换哦
+      </>
+    ),
+  },
+  {
+    title: '勤洗手',
+    Svg: require('@site/static/img/wash.svg').default,
+    description: (
+      <>
+        记得用洗手液嗷
+      </>
+    ),
+  },
+  {
+    title: '多吃饭',
+    Svg: require('@site/static/img/eat.svg').default,
+    description: (
+      <>
+        谁会和吃过不去呢
       </>
     ),
   },

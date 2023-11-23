@@ -6,18 +6,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'JLU-AI-Lab',
+  tagline: '不要停止奔跑，值得期待的只有远方',
+  url: 'https://tars-cat.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo-go.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'tars-cat', // Usually your GitHub org/user name.
+  projectName: 'tars-cat.github.io', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -41,6 +41,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: 'All Post',
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -53,26 +55,54 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'links',
+        routeBasePath: 'links',
+        path: './links',
+        showReadingTime: false,
+        blogSidebarTitle: 'Friendly Links',
+        blogSidebarCount: 'ALL',
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'JLU-AI-Lab',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'welcome',
             position: 'left',
-            label: 'Tutorial',
+            label: '📖Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            type: 'doc',
+            docId: 'exam_cpp',
+            position: 'left',
+            label: '✏️Exam',
+          },
+          {
+            type: 'doc',
+            docId: 'sim_rmua',
+            position: 'left',
+            label: '📦Repo',
+          },
+          {to: '/blog', label: '👀Blog', position: 'left'},
+          {to: '/links', label: '🔗Links', position: 'right'},
+          {to: '/docs/about', label: '📬About', position: 'right'},
+          {
+            href: 'https://github.com/tars-cat/tars-cat.github.io/tree/gh-pages',
+            label: '🐈‍⬛GitHub',
             position: 'right',
           },
         ],
@@ -84,8 +114,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'CPP',
+                to: '/docs/cpp_foundation',
+              },
+              {
+                label: 'ROS',
+                to: '/docs/ros_foundation',
+              },
+              {
+                label: 'Ubuntu',
+                to: '/docs/ubuntu_00',
               },
             ],
           },
@@ -93,16 +131,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: '吉甲大师梦工厂',
+                href: 'https://tarsgo.team',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'JLU-AI(previous)',
+                href: 'https://jlu-ai.vercel.app/',
               },
             ],
           },
@@ -110,17 +144,21 @@ const config = {
             title: 'More',
             items: [
               {
+                label: 'About',
+                to: '/docs/about',
+              },
+              {
                 label: 'Blog',
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Links',
+                to: '/links',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} JLU-AI-Lab. Built with Docusaurus.<br>Address: 吉林大学南湖校区吉甲车库进门直行右转`,
       },
       prism: {
         theme: lightCodeTheme,
