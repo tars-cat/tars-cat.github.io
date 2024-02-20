@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_docs=self.webpackChunkai_docs||[]).push([[1860],{6227:s=>{s.exports=JSON.parse('{"label":"Decision","permalink":"/blog/tags/decision","allTagsPath":"/blog/tags","count":1}')}}]);

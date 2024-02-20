@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_docs=self.webpackChunkai_docs||[]).push([[8967],{8306:s=>{s.exports=JSON.parse('{"permalink":"/links/tags/\u5feb\u4e0a\u73ed","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

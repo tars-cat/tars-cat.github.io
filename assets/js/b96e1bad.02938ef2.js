@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_docs=self.webpackChunkai_docs||[]).push([[480],{3855:s=>{s.exports=JSON.parse('{"label":"TARS-Go","permalink":"/links/tags/tars-go","allTagsPath":"/links/tags","count":1}')}}]);

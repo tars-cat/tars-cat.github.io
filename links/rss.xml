@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>TARS-Go-AI Blog</title>
+        <link>https://tars-cat.github.io/links</link>
+        <description>TARS-Go-AI Blog</description>
+        <lastBuildDate>Thu, 23 Nov 2023 17:13:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Other Open Source]]></title>
+            <link>https://tars-cat.github.io/links/Other Open Source</link>
+            <guid>Other Open Source</guid>
+            <pubDate>Thu, 23 Nov 2023 17:13:27 GMT</pubDate>
+            <description><![CDATA[RoboRTS//robomaster.github.io/RoboRTS-Tutorial]]></description>
+            <content:encoded><![CDATA[<p><strong>RoboRTS</strong>: <a href="https://robomaster.github.io/RoboRTS-Tutorial/#/" target="_blank" rel="noopener noreferrer">https://robomaster.github.io/RoboRTS-Tutorial</a></p><blockquote><p>RMUA(原人工智能挑战赛)大疆经典开源，包括一些数据流图和教程，AI组技术发端</p></blockquote><p><strong>2020 RMUA NWPU V5++</strong>: <a href="https://github.com/nwpu-v5-team" target="_blank" rel="noopener noreferrer">https://github.com/nwpu-v5-team</a></p><blockquote><p>2020 西北工业大学 翱翔战队</p></blockquote><p><strong>2020 RMUA HIT I-Hiter</strong>: <a href="https://github.com/MengXiangBo" target="_blank" rel="noopener noreferrer">https://github.com/MengXiangBo</a></p><blockquote><p>2020 哈尔滨工业大学 I-Hiter战队</p></blockquote><p><strong>2022 RMUA HIT(SZ) Critical-HIT</strong>: <a href="https://github.com/Critical-HIT-hitsz/RMUA2022" target="_blank" rel="noopener noreferrer">https://github.com/Critical-HIT-hitsz/RMUA2022</a></p><blockquote><p>2022 哈尔滨工业大学(深圳) Critical-HIT战队</p></blockquote>]]></content:encoded>
+            <category>RoboMaster</category>
+            <category>ICRA</category>
+            <category>OpenSource</category>
+        </item>
+        <item>
+            <title><![CDATA[Friendly Links]]></title>
+            <link>https://tars-cat.github.io/links/Friendly Links</link>
+            <guid>Friendly Links</guid>
+            <pubDate>Thu, 23 Nov 2023 17:13:27 GMT</pubDate>
+            <description><![CDATA[JLU-AI-Lab//jlu-ai.vercel.app]]></description>
+            <content:encoded><![CDATA[<p><strong>JLU-AI-Lab</strong>: <a href="https://jlu-ai.vercel.app" target="_blank" rel="noopener noreferrer">https://jlu-ai.vercel.app</a></p><blockquote><p>曾经的AI组网站，AI组的由来（需科学上网）</p></blockquote>]]></content:encoded>
+            <category>吃什么</category>
+            <category>喝什么</category>
+            <category>快上班</category>
+        </item>
+        <item>
+            <title><![CDATA[TARS-Go Open Source]]></title>
+            <link>https://tars-cat.github.io/links/Our Open Source</link>
+            <guid>Our Open Source</guid>
+            <pubDate>Thu, 23 Nov 2023 17:13:27 GMT</pubDate>
+            <description><![CDATA[2022 RMUA TARS-Go-AI Decision//github.com/Hermione-M/TARSGO-Decision]]></description>
+            <content:encoded><![CDATA[<p><strong>2022 RMUA TARS-Go-AI Decision</strong>: <a href="https://github.com/Hermione-M/TARS_GO-Decision" target="_blank" rel="noopener noreferrer">https://github.com/Hermione-M/TARS_GO-Decision</a></p><p><strong>2022 RMUA TARS-Go-AI Sentry</strong>: <a href="https://github.com/waddiwasibiu/RMUA-TARS_GO-AI_Sentry" target="_blank" rel="noopener noreferrer">https://github.com/waddiwasibiu/RMUA-TARS_GO-AI_Sentry</a></p>]]></content:encoded>
+            <category>TARS-Go</category>
+            <category>RoboMaster</category>
+            <category>ICRA</category>
+        </item>
+    </channel>
+</rss>
